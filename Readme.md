@@ -24,6 +24,16 @@ Welcome to the Bash Scripting Code Snippets repository! This repository contains
 18. [Else If](#18-else-if)
 19. [Case Statements](#19-case-statements)
 20. [Logical Operators](#20-logical-operators)
+21. [Logical Operators](#21-logical-operators)
+22. [For Loop](#22-for-loop)
+23. [Until Loop](#23-until-loop)
+24. [Infinite Loop](#24-infinite-loop)
+25. [While Loop](#25-while-loop)
+26. [Special While Loop](#26-special-while-loop)
+27. [Functions](#27-functions)
+28. [Functions with Arguments](#28-functions-with-arguments)
+29. [Arguments in Scripts](#29-arguments-in-scripts)
+30. [Shifting Arguments](#30-shifting-arguments)
 
 ## Code Snippets
 
@@ -49,7 +59,7 @@ An introduction to using variables in Bash, including how to declare, assign, an
 
 ### 5. Shell Type
 
-**File:** `05_shell_type.sh`  
+**File:** `05_sell_type.sh`  
 Explains different types of shells available in Unix/Linux systems and how to find out the current shell type.
 
 ### 6. First Basic Script
@@ -126,6 +136,56 @@ Using `case` statements as an alternative to multiple `if-else` conditions.
 
 **File:** `20_logical_operators.sh`  
 Using logical operators (`&&`, `||`, `!`) in Bash scripting to combine conditions.
+
+### 21. Logical Operators
+
+**File:** `21_Logical_operators.sh`  
+(duplicate entry) Similar to the 20th snippet, focuses on logical operators.
+
+### 22. For Loop
+
+**File:** `22_loop.sh`  
+How to use `for` loops in Bash scripting for iterating over a sequence of items.
+
+### 23. Until Loop
+
+**File:** `23_until_loop.sh`  
+How to use `until` loops in Bash scripting to execute code as long as a condition is false.
+
+### 24. Infinite Loop
+
+**File:** `24_infinit_loop.sh`  
+How to create and use infinite loops in Bash scripting.
+
+### 25. While Loop
+
+**File:** `25_while_loop.sh`  
+How to use `while` loops in Bash scripting to execute code while a condition is true.
+
+### 26. Special While Loop
+
+**File:** `26_epecial_while_loop.sh`  
+Using special cases of while loops for more complex looping scenarios.
+
+### 27. Functions
+
+**File:** `27_function.sh`  
+Introduction to creating and using functions in Bash scripting.
+
+### 28. Functions with Arguments
+
+**File:** `28_argu_function.sh`  
+How to pass arguments to functions in Bash and use them effectively.
+
+### 29. Arguments in Scripts
+
+**File:** `29_arguments_script.sh`  
+Handling and using command-line arguments passed to a script.
+
+### 30. Shifting Arguments
+
+**File:** `30_shifting_argumemts.sh`  
+Using the `shift` command to manage multiple arguments in a script.
 
 ## How to Use
 
