@@ -1,5 +1,4 @@
 
-bash
 #!/bin/bash
 
 # Define variables

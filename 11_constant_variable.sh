@@ -1,0 +1,1 @@
+readonly var_name="Hi"
